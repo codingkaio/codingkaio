@@ -7,17 +7,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingkaio&layout=compact&hide_border=true&title_color=c5141e&text_color=e7f6f3&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codingkaio&theme=high-contrast)
-
+<hr>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codingkaio&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
 <hr>
   
-
 ### Skills:
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
